@@ -1,0 +1,4 @@
+flask
+opencv-python
+mediapipe
+tensorflow==2.13.0
