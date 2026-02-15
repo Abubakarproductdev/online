@@ -1,4 +1,4 @@
 flask
 opencv-python-headless
-mediapipe
+mediapipe==0.10.9
 tensorflow==2.13.0
