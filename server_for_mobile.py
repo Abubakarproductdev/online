@@ -98,9 +98,6 @@ with open(CLASS_FILE, "r") as f:
 
 mp_holistic = mp.solutions.holistic
 
-# ============================================================================
-# 🧠 SMART MATCHING ALGORITHM
-# ============================================================================
 def get_best_sentence_match(raw_predicted_words):
     """
     Takes a list of raw words (e.g. ['Boss', 'send', 'word'])
